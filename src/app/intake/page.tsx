@@ -5,7 +5,7 @@ export default function IntakePage() {
   return (
     <>
       <Navbar />
-      <main className="flex flex-col items-center min-h-screen bg-gray-50 p-6 text-center">
+      <main className="flex flex-col items-center bg-gray-50 p-6 text-center">
         <h1 className="mt-10 text-2xl md:text-3xl font-semibold text-gray-800">
           Service Intake Form
         </h1>
