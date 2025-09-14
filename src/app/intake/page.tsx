@@ -11,7 +11,7 @@ export default function IntakePage() {
         </h1>
 
         <p className="max-w-xl text-gray-600 mb-6">
-          Fill out our service intake form and we’ll connect you with the best contractors for your needs. This form includes fields for your contact info, service details, and any photos or videos you want to upload.
+          Fill out our service intake form and we’ll connect you with the best contractors for your needs.
         </p>
 
         {/* Button linking to Tally form */}

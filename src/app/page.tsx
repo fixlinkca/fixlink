@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 export default function HomePage() {
   return (
     <><Navbar />
-    <main className="flex flex-col items-center justify-start min-h-screen bg-gray-50 text-center p-6">
+    <main className="flex-col items-center justify-start bg-gray-50 text-center p-6">
       {/* Motto */}
       <h1 className="mt-10 text-2xl md:text-3xl font-semibold text-gray-800">
         Welcome to FixLink!
