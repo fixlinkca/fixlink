@@ -6,7 +6,7 @@ export default function Navbar() {
     <nav className="border border-gray-300 flex items-center justify-between p-3 shadow-md bg-gray-50">
       {/* Logo */}
       <Link href="/">
-        <Image src="/fixlink.png" alt="Fixlink Logo" width={150} height={50} />
+        <Image src="/Fixlink.png" alt="Fixlink Logo" width={150} height={50} />
       </Link>
       <Link
           href={`https://tally.so/r/waWkjE`}
