@@ -24,7 +24,7 @@ export default function IntakePage() {
           GO TO FORM
         </Link>
 
-        <p className="text-gray-500 text-sm mt-6 max-w-md">
+        <p className="text-gray-500 text-sm mt-6 mb-10 max-w-md">
           Note: You’ll be redirected to Tally to complete the form. Your submissions will be sent to us automatically.
         </p>
       </main>
